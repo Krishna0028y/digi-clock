@@ -1,2 +1,2 @@
-# digi-clock
-Just a normal clock ez ,goes like tick tock and tik tok and definitely I am stupid
+# p5.play-boilerplate
+Boiler plate for p5.play
